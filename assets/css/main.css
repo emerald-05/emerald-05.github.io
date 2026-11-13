@@ -3219,3 +3219,18 @@ input, select, textarea {
 			}
 
 	}
+
+	.electronics-card h3,
+	.electronics-card p,
+	.electronics-card .actions
+		color: #333 !important;
+			opacity: 1 !important;
+				visibility: visible !important;
+		}
+
+	.electronics-card  .button {
+			color: #fff !important;
+				background-color: #49bf9d !important
+					opacity: 1 !important;
+						visibility: visible !important;
+	}
